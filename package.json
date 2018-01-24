@@ -1,5 +1,5 @@
 {
-  "name": "tile-grid",
+  "name": "tile-grid-structure",
   "version": "1.0.1",
   "description": "Assign grid dimensions to arbitrary data.",
   "main": "index.js",
