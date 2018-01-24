@@ -1,0 +1,23 @@
+{
+  "name": "tile-grid",
+  "version": "1.0.0",
+  "description": "Assign grid dimensions to arbitrary data.",
+  "main": "index.js",
+  "dependencies": {
+    "defaults-es6": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gryphonmyers/tile-grid.git"
+  },
+  "author": "Gryphon Myers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gryphonmyers/tile-grid/issues"
+  },
+  "homepage": "https://github.com/gryphonmyers/tile-grid#readme"
+}
